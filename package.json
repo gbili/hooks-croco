@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/gbili/hooks-croco#readme",
   "dependencies": {
-    "react": "^18.0.0"
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "@types/node": "^17.0.23",
